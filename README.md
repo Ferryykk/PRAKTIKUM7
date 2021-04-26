@@ -1,2 +1,1 @@
-# PRAKTIKUM7
-TUGAS PRAKTIKUM 7
+# praktikum7
